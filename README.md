@@ -3,3 +3,4 @@
 ---
 ## <b>PHP Web Basics - September 2018</b>
 1. [**Lab - Introduction to PHP**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-September-2018/Lab-Introduction_to_PHP)
+2. [**Exercise - Introduction to PHP**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-September-2018/Exercise-Introduction_to_PHP)
