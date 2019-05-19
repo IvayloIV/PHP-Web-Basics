@@ -6,3 +6,4 @@
 2. [**Exercise - Introduction to PHP**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-May-2019/Exercise-Introduction_to_PHP)
 3. [**Lab - Advanced Syntax and Operations**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-May-2019/Lab-Advanced_Syntax_and_Operations)
 4. [**Exercise - Advanced Syntax and Operations**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-May-2019/Exercise-Advanced_Syntax_and_Operations)
+5. [**Lab - HTTP and HTML Basic**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-May-2019/Lab-HTTP_and_HTML_Basic)
