@@ -1,0 +1,5 @@
+SELECT em.employee_id, em.first_name FROM employees_projects AS ep
+right join employees AS em on ep.employee_id = em.employee_id
+WHERE ep.employee_id IS NULL
+ORDER BY em.employee_id DESC
+LIMIT 3

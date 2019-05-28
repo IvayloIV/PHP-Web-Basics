@@ -1,0 +1,7 @@
+SELECT em.employee_id, em.first_name, IF(p.start_date >= '2005-01-01', NULL, p.name) AS 'project_name' 
+FROM employees_projects AS ep
+inner join employees AS em on ep.employee_id = em.employee_id
+inner join projects AS p on ep.project_id = p.project_id
+WHERE em.employee_id = 24
+ORDER BY p.name ASC
+LIMIT 3

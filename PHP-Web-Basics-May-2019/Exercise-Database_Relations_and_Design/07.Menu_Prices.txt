@@ -1,0 +1,6 @@
+SELECT p.category_id, 
+	round(AVG(p.price), 2) AS 'Average price',
+	round(MIN(p.price), 2) AS 'Cheapest Product',
+	round(MAX(p.price), 2) AS 'Most Expensive Product'
+	FROM products AS p
+GROUP BY p.category_id

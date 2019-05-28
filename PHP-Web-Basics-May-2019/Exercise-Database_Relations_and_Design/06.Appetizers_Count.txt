@@ -1,0 +1,3 @@
+SELECT COUNT(*) as 'COUNT(category_id)' FROM products AS p
+inner join categories AS c on p.category_id = c.id
+WHERE p.price > 8 AND c.name = 'appetizers'
