@@ -9,3 +9,7 @@
 5. [**Lab - Functions Objects and Classes**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-May-2019/Lab-Functions_Objects_and_Classes)
 6. [**Lab - HTTP and HTML Basic**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-May-2019/Lab-HTTP_and_HTML_Basic)
 7. [**Exercise - HTTP and HTML Basic**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-May-2019/Exercise-HTTP_and_HTML_Basic)
+8. [**Lab - Introduction to MySQL**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-May-2019/Lab-Introduction_to_MySQL)
+9. [**Exercise - Introduction to MySQL**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-May-2019/Exercise-Introduction_to_MySQL)
+10. [**Lab - Database Relations and Design**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-May-2019/Lab-Database_Relations_and_Design)
+11. [**Exercise - Database Relations and Design**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-May-2019/Exercise-Database_Relations_and_Design)
