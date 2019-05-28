@@ -1,0 +1,14 @@
+CREATE TABLE `users`(
+	`id` INT NOT NULL AUTO_INCREMENT,
+	`username` CHAR(30) UNIQUE NOT NULL,
+	`password` CHAR(26) UNIQUE NOT NULL,
+	`profile_picture` BLOB NULL,
+	`last_login_time` DATE NOT NULL,
+	`is_deleted` ENUM('true', 'false') NOT NULL,
+		PRIMARY KEY (`id`)
+);INSERT INTO users(`username`, `password`, `last_login_time`, `is_deleted`) 
+VALUES ('asdasd1', 'qweqw2', '2019-05-22', 'false');INSERT INTO users(`username`, `password`, `last_login_time`, `is_deleted`) 
+VALUES ('asdasd2', 'qweqw3', '2019-05-22', 'false');INSERT INTO users(`username`, `password`, `last_login_time`, `is_deleted`) 
+VALUES ('asdasd3', 'qweqw4', '2019-05-22', 'false');INSERT INTO users(`username`, `password`, `last_login_time`, `is_deleted`) 
+VALUES ('asdasd4', 'qweqw5', '2019-05-22', 'false');INSERT INTO users(`username`, `password`, `last_login_time`, `is_deleted`) 
+VALUES ('asdasd6', 'qweqw7', '2019-05-22', 'false');

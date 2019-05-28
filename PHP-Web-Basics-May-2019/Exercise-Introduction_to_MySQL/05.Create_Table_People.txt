@@ -1,0 +1,19 @@
+CREATE TABLE `people` (
+	`id` INT NOT NULL AUTO_INCREMENT,
+	`name` VARCHAR(200) NOT NULL DEFAULT '0',
+	`picture` BLOB NULL,
+	`height` FLOAT NULL DEFAULT '0',
+	`weight` FLOAT NULL DEFAULT '0',
+	`gender` ENUM('m','f') NOT NULL,
+	`birthdate` DATE NOT NULL,
+	`biography` LONGTEXT NULL,
+	PRIMARY KEY (`id`)
+)
+COLLATE='utf16_unicode_ci'
+ENGINE=InnoDB
+;INSERT INTO people(`name`, `height`, `weight`, `gender`, `birthdate`, `biography`) 
+VALUES ('sdfsdf', '343', '234', 'm', '2019-05-22', 'werwe');INSERT INTO people(`name`, `height`, `weight`, `gender`, `birthdate`, `biography`) 
+VALUES ('sdfsdf', '343', '234', 'm', '2019-05-22', 'werwe');INSERT INTO people(`name`, `height`, `weight`, `gender`, `birthdate`, `biography`) 
+VALUES ('sdfsdf', '343', '234', 'm', '2019-05-22', 'werwe');INSERT INTO people(`name`, `height`, `weight`, `gender`, `birthdate`, `biography`) 
+VALUES ('sdfsdf', '343', '234', 'm', '2019-05-22', 'werwe');INSERT INTO people(`name`, `height`, `weight`, `gender`, `birthdate`, `biography`) 
+VALUES ('sdfsdf', '343', '234', 'm', '2019-05-22', 'werwe');
