@@ -1,0 +1,4 @@
+SELECT e.department_id, round(AVG(e.salary), 2) as 'Average Salary'
+FROM employees AS e
+GROUP BY e.department_id
+ORDER BY e.department_id ASC

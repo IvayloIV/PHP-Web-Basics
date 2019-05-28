@@ -1,0 +1,5 @@
+SELECT AVG(e.salary) as min_average_salary FROM employees as e
+inner join departments as d on e.department_id = d.department_id
+GROUP BY d.name
+ORDER BY min_average_salary ASC
+LIMIT 1
