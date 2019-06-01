@@ -14,3 +14,4 @@
 10. [**Lab - Database Relations and Design**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-May-2019/Lab-Database_Relations_and_Design)
 11. [**Exercise - Database Relations and Design**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-May-2019/Exercise-Database_Relations_and_Design)
 12. [**Workshop - Database-driven Application**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-May-2019/Workshop-Database_driven_Application)
+13. [**Lab - Defining Classes**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-May-2019/Lab-Defining_Classes)
