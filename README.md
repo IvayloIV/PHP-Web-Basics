@@ -16,4 +16,4 @@
 12. [**Workshop - Database-driven Application**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-May-2019/Workshop-Database_driven_Application)
 13. [**Lab - Defining Classes**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-May-2019/Lab-Defining_Classes)
 14. [**Exercise - Defining Classes**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-May-2019/Exercise-Defining_Classes)
-15. [**Lab - Interfaces_and_Abstraction**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-May-2019/Lab-Interfaces_and_Abstraction)
+15. [**Lab - Interfaces and Abstraction**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-May-2019/Lab-Interfaces_and_Abstraction)
