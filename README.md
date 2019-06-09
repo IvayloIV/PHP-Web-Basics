@@ -19,3 +19,4 @@
 15. [**Exercise - Defining Classes**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-May-2019/Exercise-Defining_Classes)
 16. [**Lab - Interfaces and Abstraction**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-May-2019/Lab-Interfaces_and_Abstraction)
 17. [**Exercise - Interfaces and Abstraction**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-May-2019/Exercise-Interfaces_and_Abstraction)
+18. [**Exercise - Web Operations**](https://github.com/IvayloIV/PHP-Web-Basics/tree/master/PHP-Web-Basics-May-2019/Exercise-Web_Operations)
